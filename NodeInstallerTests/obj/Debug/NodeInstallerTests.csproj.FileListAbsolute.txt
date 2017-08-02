@@ -1,0 +1,8 @@
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\bin\Debug\NodeInstallerTests.dll
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\bin\Debug\NodeInstallerTests.pdb
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\bin\Debug\NodePortable.exe
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\bin\Debug\NodePortable.pdb
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\obj\Debug\NodeInstallerTests.csprojResolveAssemblyReference.cache
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\obj\Debug\NodeInstallerTests.dll
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodeInstallerTests\obj\Debug\NodeInstallerTests.pdb

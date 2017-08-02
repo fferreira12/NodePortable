@@ -1,0 +1,8 @@
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\bin\Debug\NodePortable.exe.config
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\bin\Debug\NodePortable.exe
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\bin\Debug\NodePortable.pdb
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Debug\NodePortable.csprojResolveAssemblyReference.cache
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Debug\NodePortable.Properties.Resources.resources
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Debug\NodePortable.csproj.GenerateResource.Cache
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Debug\NodePortable.exe
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Debug\NodePortable.pdb
