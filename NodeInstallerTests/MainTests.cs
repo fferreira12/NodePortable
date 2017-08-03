@@ -31,5 +31,20 @@ namespace NodeInstallerTests
         {
             installer.ExtractBinary();
         }
+
+        [TestMethod]
+        public void TestGetUserPathVariable()
+        {
+            //Assert.AreEqual("success", installer.userEnvVarValue);
+            string userPath = installer.userEnvVarValue;
+        }
+
+        [TestMethod]
+        public void TestSetEnvironmentVariable()
+        {
+            installer.SetEnvironmentVariable();
+            string userPath = Environment.GetEnvironmentVariable("path", EnvironmentVariableTarget.User);
+
+        }
     }
 }
