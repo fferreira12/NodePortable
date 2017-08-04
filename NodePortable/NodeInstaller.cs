@@ -16,12 +16,18 @@ namespace NodePortable
         string fullName;
         string nodePath, npmPath;
         public string userEnvVarValue { get; set; }
+        string runningFolder;
 
 
-
-        public NodeInstaller(string installationPath)
+        public NodeInstaller(string installationPath = "")
         {
-            InstallationPath = installationPath;
+            if (installationPath != "")
+            {
+                InstallationPath = installationPath; 
+            } else
+            {
+                InstallationPath = GetActualFolder();
+            }
             fullName = InstallationPath + "/node.zip";
             nodePath = InstallationPath + @"/node";
             npmPath = InstallationPath + @"/npm";
@@ -50,6 +56,28 @@ namespace NodePortable
 
             Environment.SetEnvironmentVariable("Path", totalPath, EnvironmentVariableTarget.User);
 
+        }
+
+        public string GetActualFolder()
+        {
+            runningFolder = AppDomain.CurrentDomain.BaseDirectory;
+            return runningFolder;
+        }
+
+
+        public bool Install()
+        {
+            try
+            {
+                CopyNodeBinaryToFolder();
+                ExtractBinary();
+                SetEnvironmentVariable();
+                return true;
+            }
+            catch (Exception)
+            {
+                return false;
+            }
         }
 
     }

@@ -10,6 +10,17 @@ namespace NodePortable
     {
         static void Main(string[] args)
         {
+
+            NodeInstaller n = new NodeInstaller();
+            try
+            {
+                n.Install();
+            }
+            catch (Exception)
+            {
+                Console.WriteLine("An error occured");
+            }
+
         }
     }
 }

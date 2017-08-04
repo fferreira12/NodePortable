@@ -1,0 +1,7 @@
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\bin\Release\NodePortable.exe.config
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\bin\Release\NodePortable.exe
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\bin\Release\NodePortable.pdb
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Release\NodePortable.Properties.Resources.resources
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Release\NodePortable.csproj.GenerateResource.Cache
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Release\NodePortable.exe
+C:\Users\fernandoferreira\Google Drive\Repos\NodePortable\NodePortable\obj\Release\NodePortable.pdb

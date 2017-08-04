@@ -46,5 +46,11 @@ namespace NodeInstallerTests
             string userPath = Environment.GetEnvironmentVariable("path", EnvironmentVariableTarget.User);
 
         }
+
+        [TestMethod]
+        public void TestGetActualFolder()
+        {
+            string actualFolder = installer.GetActualFolder();
+        }
     }
 }
